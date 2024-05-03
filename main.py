@@ -12,8 +12,8 @@ from rich.console import Console
 def main():
 
     Console().clear()
-    LAT = 10.3394  # Replace with your Hometown Latitude
-    LON = 124.9191  # Replace with your Hometown Longitude
+    LAT = 9.2463  # Replace with your Hometown Latitude
+    LON = 123.6064  # Replace with your Hometown Longitude
     KEY = "8e2ec10ca1c8b96f33c28f3f697e5df3"
 
     API = "https://api.openweathermap.org/data/2.5/weather"
